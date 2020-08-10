@@ -12,7 +12,9 @@ Configure > SDK Manager > Android 7.0 (Nougat)
 
 Configure > SDK Manager > SDK Tools > CMake, NDK
 
-4. [OpenCV Android SDK 설치하기](https://opencv.org > Releases > Android)
+4. [OpenCV Android SDK 설치하기](https://opencv.org)
+
+Releases > Android
 
 5. Start a new Android Studio project
 
